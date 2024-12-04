@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7a665a-f26d-481c-b0ee-63f11ee17e07" name="Changes" comment="Init">
-      <change afterPath="$PROJECT_DIR$/src/load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/query.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transform.py" afterDir="false" />
+    <list default="true" id="db7a665a-f26d-481c-b0ee-63f11ee17e07" name="Changes" comment="Added Tyler's code from discord as a baseline to work with.">
+      <change afterPath="$PROJECT_DIR$/src/Inspector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,11 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emile\PycharmProjects\PythonProject\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,11 +75,20 @@
       <option name="project" value="LOCAL" />
       <updated>1733340080922</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Tyler's code from discord as a baseline to work with.">
+      <option name="closed" value="true" />
+      <created>1733340536120</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733340536120</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Added Tyler's code from discord as a baseline to work with." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tyler's code from discord as a baseline to work with." />
   </component>
 </project>
